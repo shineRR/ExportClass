@@ -29,16 +29,18 @@ namespace Generic.DynamicList
         public void Remove(T element)
         {
             if (element == null) return;
+            bool isFound = false;
             for (int i = 0; i < _list.Length; i++)
             {
                 if (_list[i].Equals(element))
                 {
-                    Console.WriteLine(_list[i]);
-                    Console.WriteLine(element);
                     RemoveAt(i + 1);
+                    isFound = true;
                     break;
                 }
             }
+            if (!isFound)
+                Console.WriteLine("Element is Not Found");
         }
 
         public void RemoveAt(int i)
@@ -61,7 +63,8 @@ namespace Generic.DynamicList
         }
         public IEnumerator<T> GetEnumerator()
         {
-            return GetEnumerator();
+            for (int i = 0; i < _list.Length; i++)
+                yield return _list[i];
         }
 
         IEnumerator IEnumerable.GetEnumerator()

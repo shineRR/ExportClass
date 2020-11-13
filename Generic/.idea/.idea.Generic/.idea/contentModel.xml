@@ -5,9 +5,15 @@
     <e p="C:\Users\shine\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Generic.-237308701.00" t="ExcludeRecursive" />
     <e p="C:\Users\shine\Desktop\Dev\ExportClass\Generic" t="IncludeFlat">
       <e p="Generic" t="IncludeRecursive">
+        <e p="Attributes" t="Include">
+          <e p="ExportClass.cs" t="Include" />
+        </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="DynamicList" t="Include">
           <e p="DynamicList.cs" t="Include" />
+          <e p="DynamicListTest" t="Include">
+            <e p="DynamicListTest.cs" t="Include" />
+          </e>
           <e p="IDynamicList.cs" t="Include" />
         </e>
         <e p="Generic.csproj" t="IncludeRecursive" />

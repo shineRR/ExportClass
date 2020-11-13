@@ -1,5 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Reflection;
+using Generic.Attributes;
 
 namespace Generic.LibraryLoader
 {
@@ -9,22 +11,22 @@ namespace Generic.LibraryLoader
         {
             try
             {
-                Assembly asm = Assembly.LoadFrom(path);
+                Assembly asm = Assembly.LoadFrom("C:\\Users\\shine\\Desktop\\Dev\\ExportClass\\Generic\\Generic\\bin\\Debug\\Generic.exe");
                 Type[] types = asm.GetTypes();
                 Type tp = null;
                 foreach (Type t in types)
                 {
-                    if (t.Name == "ExportClass")
+                    if (t.IsPublic && Attribute.IsDefined(t, typeof(ExportClass)))
                     {
+                        Console.WriteLine(t.FullName);
                         tp = asm.GetType(t.FullName);
-                        break;
+                        MethodInfo[] methods = tp.GetMethods();
+                    
+                        foreach (MethodInfo mi in methods)
+                        {
+                            Console.WriteLine(mi.Name);
+                        }
                     }
-                }
-                MethodInfo[] methods = tp.GetMethods();
-
-                foreach (MethodInfo mi in methods)
-                {
-                    Console.WriteLine(mi.Name);
                 }
             }
             catch

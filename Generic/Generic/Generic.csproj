@@ -38,7 +38,9 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="Attributes\ExportClass.cs" />
         <Compile Include="DynamicList\DynamicList.cs" />
+        <Compile Include="DynamicList\DynamicListTest\DynamicListTest.cs" />
         <Compile Include="DynamicList\IDynamicList.cs" />
         <Compile Include="LibraryLoader\Loader.cs" />
         <Compile Include="Program.cs" />

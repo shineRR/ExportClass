@@ -1,6 +1,0 @@
-C:\Users\shine\Desktop\Dev\ExportClass\ExportedDll\ExportedDll\bin\Debug\ExportedDll.dll
-C:\Users\shine\Desktop\Dev\ExportClass\ExportedDll\ExportedDll\bin\Debug\ExportedDll.pdb
-C:\Users\shine\Desktop\Dev\ExportClass\ExportedDll\ExportedDll\obj\Debug\ExportedDll.csprojAssemblyReference.cache
-C:\Users\shine\Desktop\Dev\ExportClass\ExportedDll\ExportedDll\obj\Debug\ExportedDll.csproj.CoreCompileInputs.cache
-C:\Users\shine\Desktop\Dev\ExportClass\ExportedDll\ExportedDll\obj\Debug\ExportedDll.dll
-C:\Users\shine\Desktop\Dev\ExportClass\ExportedDll\ExportedDll\obj\Debug\ExportedDll.pdb

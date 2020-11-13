@@ -1,8 +1,14 @@
 ﻿using System;
 
-namespace ExportedDll
+namespace Generic.Attributes
 {
-    public class ExportClass
+    [AttributeUsage(AttributeTargets.Class)]
+    public class ExportClass: Attribute
+    {
+    }
+    
+    [ExportClass]
+    public class ClassA
     {
         public void Hello()
         {
