@@ -22,7 +22,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5c49a35-6dd3-4edc-8315-23f26ca8926f" name="Default Changelist" comment="" />
+    <list default="true" id="b5c49a35-6dd3-4edc-8315-23f26ca8926f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ExportedDll/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ExportedDll/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ExportedDll/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ExportedDll/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExportedDll/Class.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ExportedDll/ExportClass.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExportedDll/ExportedDll.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ExportedDll/ExportedDll.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExportedDll/bin/Debug/ExportedDll.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ExportedDll/bin/Debug/ExportedDll.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExportedDll/bin/Debug/ExportedDll.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ExportedDll/bin/Debug/ExportedDll.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExportedDll/obj/Debug/ExportedDll.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ExportedDll/obj/Debug/ExportedDll.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExportedDll/obj/Debug/ExportedDll.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ExportedDll/obj/Debug/ExportedDll.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExportedDll/obj/Debug/ExportedDll.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ExportedDll/obj/Debug/ExportedDll.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +45,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/ExportedDll/Class.cs" />
+        <option value="$PROJECT_DIR$/ExportedDll/ExportClass.cs" />
       </list>
     </option>
   </component>
@@ -58,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605264710677</updated>
-      <workItem from="1605264722050" duration="140000" />
+      <workItem from="1605264722050" duration="2747000" />
     </task>
     <servers />
   </component>
@@ -80,5 +91,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="251" key="Rider.ProjectTemplateDialog.Size" timestamp="1605264927280">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="251" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1605264927280" />
   </component>
 </project>

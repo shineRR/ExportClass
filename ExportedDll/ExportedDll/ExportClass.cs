@@ -2,7 +2,7 @@
 
 namespace ExportedDll
 {
-    public class Class
+    public class ExportClass
     {
         public void Hello()
         {

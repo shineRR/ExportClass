@@ -1,0 +1,6 @@
+C:\Users\shine\Desktop\Dev\ExportClass\Generic\Generic\bin\Debug\Generic.exe
+C:\Users\shine\Desktop\Dev\ExportClass\Generic\Generic\bin\Debug\Generic.pdb
+C:\Users\shine\Desktop\Dev\ExportClass\Generic\Generic\obj\Debug\Generic.csprojAssemblyReference.cache
+C:\Users\shine\Desktop\Dev\ExportClass\Generic\Generic\obj\Debug\Generic.csproj.CoreCompileInputs.cache
+C:\Users\shine\Desktop\Dev\ExportClass\Generic\Generic\obj\Debug\Generic.exe
+C:\Users\shine\Desktop\Dev\ExportClass\Generic\Generic\obj\Debug\Generic.pdb
