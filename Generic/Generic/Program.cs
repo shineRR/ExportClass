@@ -1,6 +1,4 @@
-﻿using System;
-using Generic.DynamicList;
-using Generic.DynamicList.DynamicListTest;
+﻿using Generic.DynamicList.DynamicListTest;
 using Generic.LibraryLoader;
 
 namespace Generic

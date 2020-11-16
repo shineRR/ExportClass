@@ -26,37 +26,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b65582cd-d300-4a84-beac-578fb2cd52b6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../ExportedDll/.idea/.idea.ExportedDll/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExportedDll/.idea/.idea.ExportedDll/.idea/contentModel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExportedDll/.idea/.idea.ExportedDll/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExportedDll/.idea/.idea.ExportedDll/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExportedDll/.idea/.idea.ExportedDll/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExportedDll/.idea/.idea.ExportedDll/.idea/projectSettingsUpdater.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExportedDll/.idea/.idea.ExportedDll/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExportedDll/.idea/.idea.ExportedDll/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExportedDll/.idea/.idea.ExportedDll/riderModule.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExportedDll/ExportedDll.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExportedDll/ExportedDll/ExportClass.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExportedDll/ExportedDll/ExportedDll.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExportedDll/ExportedDll/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExportedDll/ExportedDll/bin/Debug/ExportedDll.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExportedDll/ExportedDll/bin/Debug/ExportedDll.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExportedDll/ExportedDll/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExportedDll/ExportedDll/obj/Debug/ExportedDll.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExportedDll/ExportedDll/obj/Debug/ExportedDll.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExportedDll/ExportedDll/obj/Debug/ExportedDll.csprojAssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExportedDll/ExportedDll/obj/Debug/ExportedDll.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExportedDll/ExportedDll/obj/Debug/ExportedDll.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Generic/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Generic/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Generic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Generic/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/Attributes/ExportClass.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/Attributes/ExportClass.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/DynamicList/DynamicList.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/DynamicList/DynamicList.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/Generic.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/Generic.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/DynamicList/DynamicListTest/DynamicListTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/DynamicList/DynamicListTest/DynamicListTest.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/LibraryLoader/Loader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/LibraryLoader/Loader.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/bin/Debug/ExportedDll.dll" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/bin/Debug/Generic.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/bin/Debug/Generic.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/bin/Debug/Generic.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/bin/Debug/Generic.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/obj/Debug/Generic.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/obj/Debug/Generic.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/obj/Debug/Generic.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/obj/Debug/Generic.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/obj/Debug/Generic.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/obj/Debug/Generic.pdb" afterDir="false" />
     </list>
@@ -80,11 +57,11 @@
         <option value="$PROJECT_DIR$/Generic/DynamicList.cs" />
         <option value="$PROJECT_DIR$/Generic/DynamicList/IDynamicList.cs" />
         <option value="$PROJECT_DIR$/Generic/ExportClass.cs" />
-        <option value="$PROJECT_DIR$/Generic/LibraryLoader/Loader.cs" />
+        <option value="$PROJECT_DIR$/Generic/Attributes/ExportClass.cs" />
         <option value="$PROJECT_DIR$/Generic/Program.cs" />
+        <option value="$PROJECT_DIR$/Generic/LibraryLoader/Loader.cs" />
         <option value="$PROJECT_DIR$/Generic/DynamicList/DynamicList.cs" />
         <option value="$PROJECT_DIR$/Generic/DynamicList/DynamicListTest/DynamicListTest.cs" />
-        <option value="$PROJECT_DIR$/Generic/Attributes/ExportClass.cs" />
       </list>
     </option>
   </component>
@@ -132,6 +109,8 @@
       <updated>1605264927320</updated>
       <workItem from="1605264932839" duration="6791000" />
       <workItem from="1605292131155" duration="4492000" />
+      <workItem from="1605529572865" duration="924000" />
+      <workItem from="1605537522486" duration="54000" />
     </task>
     <servers />
   </component>
@@ -160,22 +139,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605296099407" />
-    <state width="1877" height="29" key="GridCell.Tab.0.bottom" timestamp="1605296850172">
+    <state width="1877" height="2" key="GridCell.Tab.0.bottom" timestamp="1605537576845">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="29" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605296850172" />
-    <state width="1877" height="29" key="GridCell.Tab.0.center" timestamp="1605296850172">
+    <state width="1877" height="2" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605537576845" />
+    <state width="1877" height="2" key="GridCell.Tab.0.center" timestamp="1605537576845">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="29" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605296850172" />
-    <state width="1877" height="29" key="GridCell.Tab.0.left" timestamp="1605296850172">
+    <state width="1877" height="2" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605537576845" />
+    <state width="1877" height="2" key="GridCell.Tab.0.left" timestamp="1605537576845">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="29" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605296850172" />
-    <state width="1877" height="29" key="GridCell.Tab.0.right" timestamp="1605296850172">
+    <state width="1877" height="2" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605537576845" />
+    <state width="1877" height="2" key="GridCell.Tab.0.right" timestamp="1605537576845">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="29" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605296850172" />
+    <state width="1877" height="2" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605537576845" />
     <state width="1877" height="29" key="GridCell.Tab.1.bottom" timestamp="1605296850172">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

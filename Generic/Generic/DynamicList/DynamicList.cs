@@ -46,7 +46,7 @@ namespace Generic.DynamicList
         public void RemoveAt(int i)
         {
             int length = _list.Length;
-            if (i > length)
+            if (length == 0 || i > length || i < 0)
             {
                 Console.WriteLine("Out of Range!");
                 return;

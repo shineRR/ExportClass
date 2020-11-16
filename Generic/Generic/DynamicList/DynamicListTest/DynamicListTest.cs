@@ -12,20 +12,28 @@ namespace Generic.DynamicList.DynamicListTest
             _dynamicList.Add(1);
             _dynamicList.Add(2);
             _dynamicList.Add(3);
-            _dynamicList.Add(3);
-            _dynamicList.Add(3);
-            _dynamicList.Add(3);
-            _dynamicList.Add(3);
-            Console.WriteLine("Size = " + _dynamicList.Count);
+            _dynamicList.Add(4);
+            _dynamicList.Add(5);
+            _dynamicList.Add(6);
+            _dynamicList.Add(7);
+            
+            int[] array = _dynamicList.Items;
+            for (int i = 0; i < array.Length; i++)
+            {
+                Console.Write(array[i] + " ");
+            }
+            Console.WriteLine("\nSize = " + _dynamicList.Count);
+            
             _dynamicList.RemoveAt(1);
             _dynamicList.Remove(3);
+            
             var s = _dynamicList.GetEnumerator();
             while (s.MoveNext())
             {
-                Console.WriteLine(s.Current);
+                Console.Write(s.Current + " ");
             }
             _dynamicList.Clear();
-            Console.WriteLine("Size = " + _dynamicList.Count);
+            Console.WriteLine("\nSize = " + _dynamicList.Count);
         }
     }
 }
